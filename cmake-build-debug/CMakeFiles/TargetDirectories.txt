@@ -1,4 +1,0 @@
-D:/GitHub/OpenGL/cmake-build-debug/CMakeFiles/glad.dir
-D:/GitHub/OpenGL/cmake-build-debug/CMakeFiles/OpenGL.dir
-D:/GitHub/OpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/GitHub/OpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
